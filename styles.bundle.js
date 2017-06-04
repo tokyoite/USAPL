@@ -92,7 +92,7 @@ exports = module.exports = __webpack_require__(53)();
 
 
 // module
-exports.push([module.i, "body {\r\n    background-color: #000;\r\n    background-image: url(" + __webpack_require__(233) + ");\r\n    background-repeat: no-repeat;\r\n    background-position: center;\r\n    background-attachment: fixed;\r\n    webkit-background-size: cover;\r\n    background-size: cover;\r\n}\r\n\r\n.md-chips .md-chip-input-container md-autocomplete input {\r\n    width: 100%;\r\n}\r\n", ""]);
+exports.push([module.i, "body {\r\n    background-color: #000;\r\n    background-image: url(https://github.com/tokyoite/USAPL/blob/master/src/assets/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg);\r\n    background-repeat: no-repeat;\r\n    background-position: center;\r\n    background-attachment: fixed;\r\n    webkit-background-size: cover;\r\n    background-size: cover;\r\n}\r\n\r\n.md-chips .md-chip-input-container md-autocomplete input {\r\n    width: 100%;\r\n}\r\n", ""]);
 
 // exports
 
@@ -127,14 +127,7 @@ module.exports = __webpack_require__.p + "glyphicons-halflings-regular.448c34a56
 
 /***/ }),
 
-/***/ 233:
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.0ec8f47977aeb67c459a.jpg";
-
-/***/ }),
-
-/***/ 237:
+/***/ 236:
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(101);
@@ -488,5 +481,5 @@ if(false) {
 
 /***/ })
 
-},[237]);
+},[236]);
 //# sourceMappingURL=styles.bundle.js.map
