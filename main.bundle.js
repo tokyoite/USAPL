@@ -22,7 +22,7 @@ AppComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* Component */])({
         selector: 'app-root',
         template: __webpack_require__(174),
-        styles: [],
+        styles: ["body { background-color: #333 }"],
         providers: []
     })
 ], AppComponent);

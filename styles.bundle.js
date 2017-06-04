@@ -92,7 +92,7 @@ exports = module.exports = __webpack_require__(53)();
 
 
 // module
-exports.push([module.i, "body {\r\n    background-color: #000;\r\n    background-image: url(https://github.com/tokyoite/USAPL/blob/master/src/assets/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg?raw=true);\r\n    background-repeat: no-repeat;\r\n    background-position: center;\r\n    background-attachment: fixed;\r\n    webkit-background-size: cover;\r\n    background-size: cover;\r\n}\r\n\r\n.md-chips .md-chip-input-container md-autocomplete input {\r\n    width: 100%;\r\n}\r\n", ""]);
+exports.push([module.i, "body {\r\n    background-color: #333 !important;\r\n    /*background-image: url(https://github.com/tokyoite/USAPL/blob/master/src/assets/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg?raw=true);*/\r\n    /*background-repeat: no-repeat;\r\n    background-position: center;\r\n    background-attachment: fixed;*/\r\n    /*webkit-background-size: cover;\r\n    -moz-background-size: cover;\r\n    -o-background-size: cover;\r\n    background-size: cover;*/\r\n}\r\n\r\n.md-input-container {\r\n    color: #FFF;\r\n}\r\n", ""]);
 
 // exports
 
