@@ -152,8 +152,10 @@ var RaceCalculatorComponent = (function () {
     RaceCalculatorComponent.prototype.SelectPlayer = function (p, player) {
         this.players[player] = p;
         this.SetRace();
-        document.getElementById("p1").blur();
-        document.getElementById("p2").blur();
+        setTimeout(function () {
+            document.getElementById("p1").blur();
+            document.getElementById("p2").blur();
+        }, 0);
     };
     RaceCalculatorComponent.prototype.SetRace = function () {
         var _this = this;
