@@ -62,7 +62,7 @@
 
                     <md-autocomplete #auto2="mdAutocomplete" [displayWith]="displayFn2" style="width:500px;">
                         <md-option *ngFor="let p of RatingResults[1]" [value]="p">
-                            <div (click)="SelectPlayer(p,1)">{{ p.firstName + ' ' + p.lastName  }} | <b>{{ p.rating}}</b></div>
+                            <div (click)="SelectPlayer(p,1)">{{ p.firstName + ' ' + p.lastName  }} | <b>{{ p.location}}</b></div>
                         </md-option>
                     </md-autocomplete>
                     <!--<label *ngIf="players[0] && players[1]">Long Race: {{service.calculateRace(1.0, players[0].rating, players[1].rating).raceToTwo}} points. </label>
